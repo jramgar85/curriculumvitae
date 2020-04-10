@@ -1923,6 +1923,10 @@ body {
 .cid-qWj7c01FZk H1 {
   text-align: right;
 }
+.cid-qWj7c01FZk .mbr-text,
+.cid-qWj7c01FZk .mbr-section-btn {
+  text-align: left;
+}
 .cid-qWj4J0ClR3 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2112,7 +2116,7 @@ body {
 .cid-qWjaiq6d4O {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1395x1080.jpg");
+  background-image: url("../../../assets/images/mbr-2-1618x1080.jpg");
 }
 .cid-qWjaiq6d4O .mbr-section-subtitle {
   color: #767676;
@@ -2124,7 +2128,7 @@ body {
 }
 .cid-qWjaiq6d4O .mbr-text {
   color: #767676;
-  text-align: left;
+  text-align: center;
 }
 .cid-qWjaiq6d4O .mbr-author-desc {
   display: block;
@@ -2166,6 +2170,70 @@ body {
 }
 @media (max-width: 300px) {
   .cid-qWjaiq6d4O .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-qWjaiq6d4O H2 {
+  color: #040404;
+}
+.cid-rVI9TsVNZH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-8-1620x1080.jpg");
+}
+.cid-rVI9TsVNZH .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rVI9TsVNZH .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rVI9TsVNZH .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-rVI9TsVNZH .mbr-author-desc {
+  display: block;
+  color: #767676;
+  text-align: left;
+}
+.cid-rVI9TsVNZH .mbr-author-name {
+  color: #767676;
+  text-align: left;
+}
+.cid-rVI9TsVNZH .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rVI9TsVNZH .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rVI9TsVNZH .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rVI9TsVNZH .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rVI9TsVNZH .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-rVI9TsVNZH .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
