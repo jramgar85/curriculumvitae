@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "C.V.",
+    "name": "C.V. Digital",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -71,7 +71,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "C.V. Digital ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
